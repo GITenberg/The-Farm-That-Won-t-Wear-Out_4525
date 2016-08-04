@@ -1,0 +1,29 @@
+_repo: The-Farm-That-Won-t-Wear-Out_4525
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hopkins, Cyril G. (Cyril George)
+    aliases:
+    - Hopkins, C. G. (Cyril George)
+    - Hopkins, Cyril George
+    birthdate: 1866
+    deathdate: 1919
+    gutenberg_agent_id: '1493'
+    url: http://www.gutenberg.org/2009/agents/1493
+description: ''
+gutenberg_issued: '2003-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4525'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'S'
+- !lcsh 'Soils'
+- !lcsh 'Fertilizers'
+- !lcsh 'Agriculture'
+- GITenberg
+title: The Farm That Won't Wear Out
+url: http://www.gutenberg.org/ebooks/4525
